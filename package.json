@@ -1,0 +1,22 @@
+{
+  "name": "outreach-pipeline",
+  "version": "1.0.0",
+  "description": "CLI tool that automates cold email outreach via Apollo, Prospeo, and Brevo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "outreach",
+    "cold-email",
+    "apollo",
+    "prospeo",
+    "brevo"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.5.0"
+  }
+}
