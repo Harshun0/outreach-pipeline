@@ -100,3 +100,4 @@ outreach-pipeline/
 - Apollo does not expose a dedicated public "lookalike" endpoint; Stage 1 approximates lookalikes using enriched firmographic filters.
 - Prospeo domain-search returns up to 3 contacts per domain in a single API call.
 - Ensure your `SENDER_EMAIL` is verified in Brevo before running Stage 4.
+- Clone the repo, copy .env.example to .env, fill in your own API keys from Apollo, Prospeo, and Brevo dashboards
